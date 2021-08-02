@@ -1,0 +1,18 @@
+{
+  "playlistCollection": [
+    {
+      "id": "8b301260-d267-11eb-a8f7-591ae1064ded",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "test",
+      "songs": [
+        {
+          "id": "e8ea90c0-f372-11eb-b9fa-21823839e8a0",
+          "title": "Test",
+          "artist": "sdfsdg",
+          "duration": 10
+        }
+      ],
+      "duration": 10
+    }
+  ]
+}

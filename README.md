@@ -1,1 +1,4 @@
-# ICT_SkillsLab6b
+Welcome to the Playlist 4
+=========================
+
+Version 4 of the Playlist application
